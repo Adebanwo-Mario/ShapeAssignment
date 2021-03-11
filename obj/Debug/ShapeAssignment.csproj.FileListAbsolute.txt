@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ShapeAssignment\bin\Debug\ShapeAssignment.exe.config
+C:\Users\DELL\source\repos\ShapeAssignment\bin\Debug\ShapeAssignment.exe
+C:\Users\DELL\source\repos\ShapeAssignment\bin\Debug\ShapeAssignment.pdb
+C:\Users\DELL\source\repos\ShapeAssignment\obj\Debug\ShapeAssignment.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ShapeAssignment\obj\Debug\ShapeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ShapeAssignment\obj\Debug\ShapeAssignment.exe
+C:\Users\DELL\source\repos\ShapeAssignment\obj\Debug\ShapeAssignment.pdb
